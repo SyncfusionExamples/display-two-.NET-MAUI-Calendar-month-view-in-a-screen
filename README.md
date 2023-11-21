@@ -1,13 +1,13 @@
 # How to Display Two Month Views in the .NET MAUI Calendar (SfCalendar)
 
-This repository contains a sample to display two [Syncfusion .NET MAUI Calendar](https://help.syncfusion.com/maui/calendar/getting-started) control month view in a screen.
+This repository contains a sample to display two [SfCalendar](https://help.syncfusion.com/maui/calendar/getting-started) control month view in a screen.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13828/how-to-display-two-month-views-in-the-net-maui-calendar-sfcalendar).
 
 ## Syncfusion controls
 
 This project used the following Syncfusion control(s):
-* [SfCalendar](https://www.syncfusion.com/maui-controls/maui-calendar)
+* [Syncfusion .NET MAUI Calendar](https://www.syncfusion.com/maui-controls/maui-calendar)
 
 ## Supported platforms
 
